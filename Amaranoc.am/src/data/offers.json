@@ -1,0 +1,211 @@
+{
+ "1598": {
+  "code": "AT001-3",
+  "address": "Բջնի",
+  "night": "Այո",
+  "area": "42 քմ",
+  "totalArea": "42 քմ",
+  "guests": 4,
+  "nightGuests": 4,
+  "rooms": "1",
+  "baths": "1",
+  "pool": "Առանց լողավազանի",
+  "amenities": [
+   "Ջակուզի",
+   "WiFi",
+   "Smart հեռուստացույց",
+   "Օդորակիչ",
+   "Սպասք"
+  ],
+  "images": [
+   "https://api.amaranoc.am/1786016384446--0.5674212438235726image_optimized.webp",
+   "https://api.amaranoc.am/1792673322699--0.8690244063231141image_optimized.webp",
+   "https://api.amaranoc.am/1786016384492--0.6670579067223696image_optimized.webp",
+   "https://api.amaranoc.am/1786016384537--0.46959642700896365image_optimized.webp"
+  ]
+ },
+ "1662": {
+  "code": "AT383-2",
+  "address": "Գ. Անտառուտ",
+  "night": "Այո",
+  "area": "60 քմ",
+  "totalArea": "200 քմ",
+  "guests": 5,
+  "nightGuests": 5,
+  "rooms": "2",
+  "baths": "1",
+  "pool": "Առանց լողավազանի",
+  "amenities": [
+   "WiFi",
+   "Smart հեռուստացույց",
+   "Օդորակիչ",
+   "Սպասք",
+   "Կայանատեղի"
+  ],
+  "images": [
+   "https://api.amaranoc.am/1793105950875--0.5012007430617718image_optimized.webp",
+   "https://api.amaranoc.am/1793104447444--0.4406711003948458image_optimized.webp",
+   "https://api.amaranoc.am/1793104447421--0.9435687893797486image_optimized.webp",
+   "https://api.amaranoc.am/1793104426445--0.4743309967081606image_optimized.webp"
+  ]
+ },
+ "252": {
+  "code": "AM063",
+  "address": "Նոր Հաճն",
+  "night": "Այո",
+  "area": "1500 քմ",
+  "totalArea": "300 քմ",
+  "guests": 30,
+  "nightGuests": 16,
+  "rooms": "6 և ավելի",
+  "baths": "3+",
+  "pool": "Բաց, Փակ, Տաքացվող",
+  "amenities": [
+   "Շոգեբաղնիք",
+   "Սեղանի թենիս",
+   "Բացօթյա տաղավար",
+   "Փակ տաղավար",
+   "Մանղալ",
+   "Ամառային խոհանոց",
+   "Նվագարկիչ",
+   "Ճոճանակ",
+   "WiFi",
+   "Օդորակիչ",
+   "Կանաչապատ այգի",
+   "Սպասք",
+   "Լվացքի մեքենա",
+   "Աման լվացող մեքենա",
+   "Կայանատեղի",
+   "Վարսահարդարիչ",
+   "Վոլեյբոլ",
+   "Խարույկ",
+   "Տապչաններ",
+   "Սեղանի խաղեր",
+   "Մանկական խաղահրապարակ",
+   "Բատուտ"
+  ],
+  "images": [
+   "https://api.amaranoc.am/1772031870801--0.4223948999945075image_optimized.webp",
+   "https://api.amaranoc.am/1772031992147--0.08273550679993247image_optimized.webp",
+   "https://api.amaranoc.am/1772031870813--0.5826133475248165image_optimized.webp",
+   "https://api.amaranoc.am/1770113277903--0.1517516416909066image_optimized.webp"
+  ]
+ },
+ "1663": {
+  "code": "AT383-1",
+  "address": "Գ. Անտառուտ",
+  "night": "Այո",
+  "area": "30 քմ",
+  "totalArea": "200 քմ",
+  "guests": 3,
+  "nightGuests": 3,
+  "rooms": "1",
+  "baths": "1",
+  "pool": "Առանց լողավազանի",
+  "amenities": [
+   "Ջակուզի",
+   "WiFi",
+   "Smart հեռուստացույց",
+   "Օդորակիչ",
+   "Սպասք",
+   "Կայանատեղի"
+  ],
+  "images": [
+   "https://api.amaranoc.am/1793105198675--0.33790515440360736image_optimized.webp",
+   "https://api.amaranoc.am/1793105251714--0.5399107173786262image_optimized.webp",
+   "https://api.amaranoc.am/1793105251727--0.8809168729853831image_optimized.webp",
+   "https://api.amaranoc.am/1793105251739--0.8925203754485045image_optimized.webp"
+  ]
+ },
+ "1122": {
+  "code": "AT166",
+  "address": "Ծաղկաձոր",
+  "night": "Այո",
+  "area": "84 քմ",
+  "totalArea": "300 քմ",
+  "guests": 6,
+  "nightGuests": 6,
+  "rooms": "4",
+  "baths": "2",
+  "pool": "Առանց լողավազանի",
+  "amenities": [
+   "Ջակուզի",
+   "Մանղալ",
+   "Նվագարկիչ",
+   "WiFi",
+   "Smart հեռուստացույց",
+   "Օդորակիչ",
+   "Սպասք",
+   "Կայանատեղի"
+  ],
+  "images": [
+   "https://api.amaranoc.am/1762850175455--0.6550219483737489image_optimized.webp",
+   "https://api.amaranoc.am/1762850175472--0.6240412506130546image_optimized.webp",
+   "https://api.amaranoc.am/1762850175504--0.22652345116052097image_optimized.webp",
+   "https://api.amaranoc.am/1762850175514--0.12077534643234755image_optimized.webp"
+  ]
+ },
+ "843": {
+  "code": "AM333",
+  "address": "Ուշի",
+  "night": "Այո",
+  "area": "140 քմ",
+  "totalArea": "3000 քմ",
+  "guests": 40,
+  "nightGuests": 12,
+  "rooms": "4",
+  "baths": "2",
+  "pool": "Բաց, Տաքացվող",
+  "amenities": [
+   "Բացօթյա տաղավար",
+   "Մանղալ",
+   "Ամառային խոհանոց",
+   "Նվագարկիչ",
+   "Ճոճանակ",
+   "WiFi",
+   "Կանաչապատայգի",
+   "Սպասք",
+   "Կայանատեղի",
+   "Խարույկ",
+   "Տապչաններ",
+   "Մանկական խաղահրապարակ"
+  ],
+  "images": [
+   "https://api.amaranoc.am/1792135295311--0.5062816674800377image_optimized.webp",
+   "https://api.amaranoc.am/1792135295285--0.22619210707671167image_optimized.webp",
+   "https://api.amaranoc.am/1792135295334--0.44334075274411133image_optimized.webp",
+   "https://api.amaranoc.am/1792135295377--0.638386526858765image_optimized.webp"
+  ]
+ },
+ "1251": {
+  "code": "AM515",
+  "address": "Արզնի",
+  "night": "Այո",
+  "area": "700 քմ",
+  "totalArea": "2000 քմ",
+  "guests": 30,
+  "nightGuests": 12,
+  "rooms": "6 և ավելի",
+  "baths": "3+",
+  "pool": "Փակ, Տաքացվող",
+  "amenities": [
+   "Սեղանի թենիս",
+   "Փակ տաղավար",
+   "Մանղալ",
+   "Նվագարկիչ",
+   "Ճոճանակ",
+   "WiFi",
+   "Smart հեռուստացույց",
+   "Օդորակիչ",
+   "Սպասք",
+   "Կայանատեղի",
+   "Տապչաններ"
+  ],
+  "images": [
+   "https://api.amaranoc.am/1772096919031--0.050258973710116006image_optimized.webp",
+   "https://api.amaranoc.am/1772096919073--0.1754328735378312image_optimized.webp",
+   "https://api.amaranoc.am/1789654687610--0.6443359816355763image_optimized.webp",
+   "https://api.amaranoc.am/1789654687540--0.5544129039466241image_optimized.webp"
+  ]
+ }
+}
